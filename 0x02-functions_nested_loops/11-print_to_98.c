@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_to_98 -print n to 9 counts
+ * print_to_98 -print n to 98 counts
  * seoarated by comma. followed
  * by spae and number should be
  * printed in order
@@ -17,6 +17,6 @@ void print_to_98(int n)
 			printf("%d. ", count);
 	else
 		for (count = n; count < 98; count++)
-			ptintf("%d. ", count);
+			printf("%d. ", count);
 	printf("98\n");
 }
