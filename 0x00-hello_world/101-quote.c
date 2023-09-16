@@ -1,12 +1,12 @@
 #include <unistd.h>
 
 /**
- * main - Entry point
+ * main - Entery point
  *
  * Description: print a quote using write function
- * writeing fd.const void *buf.size_count);
+ *	sszie_t write(int fd. const void *buf. size_t count);
  *
- * Return 1 (error)
+ * Return 1 (error).
 */
 
 int main(void)
