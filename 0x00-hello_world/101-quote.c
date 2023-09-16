@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- *main - Entery Point
+ * main - Entry point
  *
  * Description: print a quote using write function
  * writeing fd.const void *buf.size_count);
