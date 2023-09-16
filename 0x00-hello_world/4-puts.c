@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main Entery point
+ * main -  Entery point
  *
- * Discription: a Cprogram that prints with put function
+ * Discription: A C Cprogram that prints with put function
  *
  * Return: Alwyas 0 (Succes)
 */
