@@ -1,4 +1,4 @@
-#include <stdip.h>
+#include <stdio.h>
 
 /**
  * main - Entery Point
