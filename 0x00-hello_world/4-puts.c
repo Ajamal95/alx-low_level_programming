@@ -2,7 +2,9 @@
 
 /**
  * main Entery point
+ *
  * Discription: a Cprogram that prints with put function
+ *
  * Return: Alwyas 0 (Succes)
 */
 
