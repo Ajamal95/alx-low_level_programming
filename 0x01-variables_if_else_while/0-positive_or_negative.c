@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - entery point
+ * main - entry point
  *
  * Description: fales ir true validation
  *
