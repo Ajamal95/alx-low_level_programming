@@ -1,20 +1,19 @@
 #include "main.h"
 
 /**
- * swap_int - swaps the values of two integers
- * using two input parameters
+ * _strlen - returns the length of a strlen
  *
- * @a: input parameter 1
- * @b: input parameter 2
+ * @s: string parameter input
  *
- * Return: Nothing
+ * Return: Length of steing
 */
 
-void swap_int (int *a, int *b)
+int strlen(char *s)
 {
-        int temp;
+	int counter;
 
-        temp = *a;
-        *a = *b;
-        *b = temp;
+	for (counter = 0; *s != '\0'; s++)
+	++counter;
+
+	return (counter);
 }
